@@ -12,7 +12,9 @@ A simple Arduino-based oscilloscope capable of measuring voltage signals from **
 - Arduino board (e.g., Arduino Uno / Nano)
 - Voltage divider and protection circuit (resistors, capacitors, etc. to keep input within safe range)
 - 1.3 inch OLED Display
-
+- 2 × 10 kΩ resistors
+- 2 × 1 MΩ resistors
+  
 ## Software Requirements
 - Arduino IDE
 - Required libraries (depending on your display, e.g., `U8g2lib`)
