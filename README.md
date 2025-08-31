@@ -18,4 +18,4 @@ A simple Arduino-based oscilloscope capable of measuring voltage signals from **
 - Required libraries (depending on your display, e.g., `U8g2lib`)
 
 
-![Oscilloscope Preview](IMG_6631.png)
+![Oscilloscope Preview](IMG_6631.jpg)
