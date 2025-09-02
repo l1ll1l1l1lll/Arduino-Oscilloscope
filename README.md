@@ -1,4 +1,4 @@
-# Arduino-Oszillator
+# Arduino-Oscilloscope
 
 A simple Arduino-based oscilloscope capable of measuring voltage signals from **-10V to +10V**.
 
